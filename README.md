@@ -1,4 +1,4 @@
-# OptimalPortfolio
+# Optimal Portfolio
 
 **Three methods for selecting stocks/digital currencies for the optimal portfolio**
 **1-  Risk Parity method:**
